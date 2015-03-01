@@ -24,3 +24,10 @@ You can also add arguments that should be fed to Unity upon execution:
 
 ## Binaries?
 The most recent precompiled version can always be found here: http://theplaywrite.com/files/UnitySXS.zip
+
+## What else have you done?
+If you want to check out Unity games made by us, head over to Steam!
+
+**Deadnaut** - http://store.steampowered.com/app/337040 (made with Unity)
+
+**Zafehouse: Diaries** - http://store.steampowered.com/app/249360 (written from scratch in Visual Basic .NET, C#, with help from SlimDX)
